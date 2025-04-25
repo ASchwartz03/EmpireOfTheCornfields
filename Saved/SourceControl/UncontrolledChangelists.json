@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GitHub/EmpireOfTheCornfields/Content/Building/Textures/WidgetIcons/658120.uasset",
+				"C:/GitHub/EmpireOfTheCornfields/Content/Building/Textures/WidgetIcons/T_Builder.uasset",
+				"C:/GitHub/EmpireOfTheCornfields/Content/Building/Textures/WidgetIcons/1357126-512.uasset",
+				"C:/GitHub/EmpireOfTheCornfields/Content/Building/Textures/WidgetIcons/T_Bomber.uasset",
+				"C:/GitHub/EmpireOfTheCornfields/Content/Building/Widgets/WBP_MainUI.uasset",
+				"C:/GitHub/EmpireOfTheCornfields/Content/Building/Widgets/WidgetsSubMenus/BuildingsUI/WBP_Spawner.uasset",
+				"C:/GitHub/EmpireOfTheCornfields/Content/Building/Widgets/WidgetsSubMenus/BuildingsUI/WBP_Builders.uasset",
 				"C:/Users/dobsong/Documents/UnrealProjects/EmpireOfTheCornfields-main/Content/Interface/Troops/BP_Builder.uasset",
 				"C:/Users/dobsong/Documents/UnrealProjects/EmpireOfTheCornfields-main/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/0A/Q5EO44CNHM1USGSUWI1N78.uasset",
 				"C:/Users/dobsong/Documents/UnrealProjects/EmpireOfTheCornfields-main/Content/Building/Interfaces/ResourceInterface/BPI_ResourceInterface.uasset",
