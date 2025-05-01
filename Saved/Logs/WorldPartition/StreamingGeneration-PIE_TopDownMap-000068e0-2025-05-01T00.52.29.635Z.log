@@ -1,0 +1,186 @@
+[+] Containers:
+ |- [+] Container: /Game/TopDown/Maps/TopDownMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:040975B14A7C4EA2E3C62AB96D8CBDF1 BaseClass:/Game/Interface/Troops/BP_tank.BP_tank_C NativeClass:/Script/Engine.Pawn Name:BP_tank_C_UAID_005056C00001F66302_1735888338 Label:BP_tank SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=140.000 Y=240.000 Z=-580.000), Max=(X=640.000 Y=340.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:147C8D134B12D635012D5F8C57D2C96F BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_1 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:1742DF43475F097453197AA79C7473D9 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:1A4276DE4C90A0D351D1F8BBE04FAD43 BaseClass:/Game/Map_Grid/BP_HexGrid.BP_HexGrid_C NativeClass:/Script/Engine.Actor Name:BP_HexGrid_C_UAID_00155D016A00CD1C02_1499329852 Label:BP_HexGrid SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-155.015 Y=-2089.498 Z=-519.874), Max=(X=6898.161 Y=3996.357 Z=-475.126) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1FEC8FAC495CEF0CE32492ADCBB96BAE BaseClass: NativeClass:/Script/AIModule.NavLinkProxy Name:NavLinkProxy_3 Label:NavLinkProxy3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2240.000 Y=1030.000 Z=90.000), Max=(X=2240.000 Y=1030.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- Guid:2DF0D95440BE0EDA81652F860DC7268E BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:4512D03B44B4ACDD6BA58C9AC3BFE958 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00155D8B73D8CF1B02_1235247443 Label:Hexgridactor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=950.000 Y=1850.000 Z=0.000), Max=(X=950.000 Y=1850.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5295C61647CC4A747D10ABAB473DC75C BaseClass:/Game/Interface/Troops/BP_bomber.BP_bomber_C NativeClass:/Script/Engine.Pawn Name:BP_bomber_C_UAID_005056C00001F66302_1718975335 Label:BP_bomber SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-90.000 Y=100.000 Z=-580.000), Max=(X=410.000 Y=200.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:53742BF949F989DECF01D4BDA79930B7 BaseClass:/Game/Interface/Troops/BP_Builder.BP_Builder_C NativeClass:/Script/Engine.Pawn Name:BP_Builder_C_UAID_005056C00001F96302_1544723867 Label:BP_Builder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-190.000 Z=-485.000), Max=(X=610.000 Y=-30.000 Z=-280.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:58658AEF40ECF6B78CC917B6591A0F74 BaseClass:/Game/Interface/Troops/BP_spearman.BP_spearman_C NativeClass:/Script/Engine.Pawn Name:BP_spearman_C_UAID_005056C00001F66302_1734130337 Label:BP_spearman SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-170.000 Y=230.000 Z=-580.000), Max=(X=330.000 Y=330.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6252C7D64ACF162A73EE65B11FE214D1 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_1 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:64F983684C55238AEE7BE8A48B870FBE BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_50C2E8DFA3306E3802_2140386993 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-266.000 Y=-2230.000 Z=-560.000), Max=(X=7074.000 Y=4130.000 Z=-360.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:66BCBF874D2A22ADC6523B95EE812CA3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5CFB00_1660657071 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:6AB53BAF4DF74DF10E10468FABAFCFBE BaseClass:/Game/TemporaryStandinClasses/BP_attackThis.BP_attackThis_C NativeClass:/Script/Engine.Pawn Name:BP_attackThis_C_UAID_50C2E8DFA3306E3802_1790724992 Label:BP_attackThis SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=930.000 Y=30.000 Z=-780.000), Max=(X=1530.000 Y=630.000 Z=-180.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6D94736B4A0C9663A0B5AE98B628693A BaseClass:/Game/Interface/Troops/BP_gunner.BP_gunner_C NativeClass:/Script/Engine.Pawn Name:BP_gunner_C_UAID_005056C00001F66302_1731045336 Label:BP_gunner SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=40.000 Y=50.000 Z=-580.000), Max=(X=540.000 Y=150.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:77F893B3468595EE782136AD620D7EF4 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:9018ACB344B70DA8809343A07F04E02C BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_50C2E8DFA3306E3802-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:931F7B7B44BDF0BC4F35B3A31FF17447 BaseClass:/Game/Building/Buildings/Trailer/BP_Trailer.BP_Trailer_C NativeClass:/Script/Engine.Pawn Name:BP_Trailer_C_UAID_509A4C4E5631695B02_1769376071 Label:BP_Trailer SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1540.000 Y=-1950.000 Z=-780.000), Max=(X=2140.000 Y=-1350.000 Z=-180.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9B7E40A6458CC0A66711D889438D9146 BaseClass:/Game/Interface/Troops/BP_HERO.BP_HERO_C NativeClass:/Script/Engine.Pawn Name:BP_HERO_C_UAID_005056C00001F96302_1566458868 Label:BP_HERO2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=480.000 Y=300.000 Z=-580.000), Max=(X=980.000 Y=400.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9BBA206C48495F8D293065AEB5695D52 BaseClass:/Game/Building/Resources/CashWood/BP_CashNode.BP_CashNode_C NativeClass:/Script/Engine.Pawn Name:BP_CashNode_C_UAID_509A4C4E5631E45C02_1227573775 Label:BP_CashNode SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1500.000 Y=-1070.000 Z=-780.000), Max=(X=2100.000 Y=-470.000 Z=-180.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A3A5338244BCC122C2D8149E6C3EBECF BaseClass:/Game/Building/Actors/BP_SunRotation.BP_SunRotation_C NativeClass:/Script/Engine.Actor Name:BP_SunRotation_C_UAID_00155D8B73D8313202_1859531919 Label:BP_SunRotation SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:AECEEEE741E6DE68F6843FA49564A956 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:B09C3A004D32B6FF970B3E9294DA3C81 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00155D8B73D8CF1B02_1199787442 Label:Hexgridactor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=920.000 Y=1810.000 Z=0.000), Max=(X=920.000 Y=1810.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B638F0CA47CE45A13171429FCE03FC6E BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_50C2E8DFA330541F02_1506775015 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=890.000 Y=370.000 Z=388.000), Max=(X=970.000 Y=450.000 Z=572.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BF845B744909837C3BBE73957379233F BaseClass:/Game/TroopMover/BP_vehicle.BP_vehicle_C NativeClass:/Script/Engine.Pawn Name:BP_vehicle_C_UAID_282E89298AFDF14602_1200875831 Label:BP_vehicle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=30.000 Y=670.000 Z=-528.000), Max=(X=530.000 Y=770.000 Z=-20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C3E63CFE4A058EF6AD50E0B3F7D30922 BaseClass:/Game/Building/Resources/DipSteel/BP_DipNode.BP_DipNode_C NativeClass:/Script/Engine.Pawn Name:BP_DipNode_C_UAID_509A4C4E5631E45C02_1233371776 Label:BP_DipNode SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2680.000 Y=-1070.000 Z=-780.000), Max=(X=3280.000 Y=-470.000 Z=-180.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D24D61B944EF71BE7BC469B7EB239299 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_1 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:DD4A44424FAA40A30B44AFBBA30B322E BaseClass:/Game/Building/Resources/BeerIronOre/BP_BeerNode.BP_BeerNode_C NativeClass:/Script/Engine.Pawn Name:BP_BeerNode_C_UAID_509A4C4E56315E5B02_1959802135 Label:BP_BeerNode SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=-1060.000 Z=-780.000), Max=(X=1000.000 Y=-460.000 Z=-180.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:040975B14A7C4EA2E3C62AB96D8CBDF1 BaseClass:/Game/Interface/Troops/BP_tank.BP_tank_C NativeClass:/Script/Engine.Pawn Name:BP_tank_C_UAID_005056C00001F66302_1735888338 Label:BP_tank SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=140.000 Y=240.000 Z=-580.000), Max=(X=640.000 Y=340.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:147C8D134B12D635012D5F8C57D2C96F BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_1 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:1742DF43475F097453197AA79C7473D9 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1A4276DE4C90A0D351D1F8BBE04FAD43 BaseClass:/Game/Map_Grid/BP_HexGrid.BP_HexGrid_C NativeClass:/Script/Engine.Actor Name:BP_HexGrid_C_UAID_00155D016A00CD1C02_1499329852 Label:BP_HexGrid SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-155.015 Y=-2089.498 Z=-519.874), Max=(X=6898.161 Y=3996.357 Z=-475.126) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:1FEC8FAC495CEF0CE32492ADCBB96BAE BaseClass: NativeClass:/Script/AIModule.NavLinkProxy Name:NavLinkProxy_3 Label:NavLinkProxy3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2240.000 Y=1030.000 Z=90.000), Max=(X=2240.000 Y=1030.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:2DF0D95440BE0EDA81652F860DC7268E BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:4512D03B44B4ACDD6BA58C9AC3BFE958 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00155D8B73D8CF1B02_1235247443 Label:Hexgridactor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=950.000 Y=1850.000 Z=0.000), Max=(X=950.000 Y=1850.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:5295C61647CC4A747D10ABAB473DC75C BaseClass:/Game/Interface/Troops/BP_bomber.BP_bomber_C NativeClass:/Script/Engine.Pawn Name:BP_bomber_C_UAID_005056C00001F66302_1718975335 Label:BP_bomber SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-90.000 Y=100.000 Z=-580.000), Max=(X=410.000 Y=200.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:53742BF949F989DECF01D4BDA79930B7 BaseClass:/Game/Interface/Troops/BP_Builder.BP_Builder_C NativeClass:/Script/Engine.Pawn Name:BP_Builder_C_UAID_005056C00001F96302_1544723867 Label:BP_Builder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-190.000 Z=-485.000), Max=(X=610.000 Y=-30.000 Z=-280.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:58658AEF40ECF6B78CC917B6591A0F74 BaseClass:/Game/Interface/Troops/BP_spearman.BP_spearman_C NativeClass:/Script/Engine.Pawn Name:BP_spearman_C_UAID_005056C00001F66302_1734130337 Label:BP_spearman SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-170.000 Y=230.000 Z=-580.000), Max=(X=330.000 Y=330.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:6252C7D64ACF162A73EE65B11FE214D1 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_1 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:64F983684C55238AEE7BE8A48B870FBE BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_50C2E8DFA3306E3802_2140386993 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-266.000 Y=-2230.000 Z=-560.000), Max=(X=7074.000 Y=4130.000 Z=-360.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:66BCBF874D2A22ADC6523B95EE812CA3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5CFB00_1660657071 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:6AB53BAF4DF74DF10E10468FABAFCFBE BaseClass:/Game/TemporaryStandinClasses/BP_attackThis.BP_attackThis_C NativeClass:/Script/Engine.Pawn Name:BP_attackThis_C_UAID_50C2E8DFA3306E3802_1790724992 Label:BP_attackThis SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=930.000 Y=30.000 Z=-780.000), Max=(X=1530.000 Y=630.000 Z=-180.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:6D94736B4A0C9663A0B5AE98B628693A BaseClass:/Game/Interface/Troops/BP_gunner.BP_gunner_C NativeClass:/Script/Engine.Pawn Name:BP_gunner_C_UAID_005056C00001F66302_1731045336 Label:BP_gunner SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=40.000 Y=50.000 Z=-580.000), Max=(X=540.000 Y=150.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:77F893B3468595EE782136AD620D7EF4 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:9018ACB344B70DA8809343A07F04E02C BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_50C2E8DFA3306E3802-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:931F7B7B44BDF0BC4F35B3A31FF17447 BaseClass:/Game/Building/Buildings/Trailer/BP_Trailer.BP_Trailer_C NativeClass:/Script/Engine.Pawn Name:BP_Trailer_C_UAID_509A4C4E5631695B02_1769376071 Label:BP_Trailer SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1540.000 Y=-1950.000 Z=-780.000), Max=(X=2140.000 Y=-1350.000 Z=-180.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:9B7E40A6458CC0A66711D889438D9146 BaseClass:/Game/Interface/Troops/BP_HERO.BP_HERO_C NativeClass:/Script/Engine.Pawn Name:BP_HERO_C_UAID_005056C00001F96302_1566458868 Label:BP_HERO2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=480.000 Y=300.000 Z=-580.000), Max=(X=980.000 Y=400.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:9BBA206C48495F8D293065AEB5695D52 BaseClass:/Game/Building/Resources/CashWood/BP_CashNode.BP_CashNode_C NativeClass:/Script/Engine.Pawn Name:BP_CashNode_C_UAID_509A4C4E5631E45C02_1227573775 Label:BP_CashNode SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1500.000 Y=-1070.000 Z=-780.000), Max=(X=2100.000 Y=-470.000 Z=-180.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:A3A5338244BCC122C2D8149E6C3EBECF BaseClass:/Game/Building/Actors/BP_SunRotation.BP_SunRotation_C NativeClass:/Script/Engine.Actor Name:BP_SunRotation_C_UAID_00155D8B73D8313202_1859531919 Label:BP_SunRotation SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |   |- Guid:AECEEEE741E6DE68F6843FA49564A956 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:B09C3A004D32B6FF970B3E9294DA3C81 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00155D8B73D8CF1B02_1199787442 Label:Hexgridactor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=920.000 Y=1810.000 Z=0.000), Max=(X=920.000 Y=1810.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:B638F0CA47CE45A13171429FCE03FC6E BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_50C2E8DFA330541F02_1506775015 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=890.000 Y=370.000 Z=388.000), Max=(X=970.000 Y=450.000 Z=572.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:BF845B744909837C3BBE73957379233F BaseClass:/Game/TroopMover/BP_vehicle.BP_vehicle_C NativeClass:/Script/Engine.Pawn Name:BP_vehicle_C_UAID_282E89298AFDF14602_1200875831 Label:BP_vehicle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=30.000 Y=670.000 Z=-528.000), Max=(X=530.000 Y=770.000 Z=-20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:C3E63CFE4A058EF6AD50E0B3F7D30922 BaseClass:/Game/Building/Resources/DipSteel/BP_DipNode.BP_DipNode_C NativeClass:/Script/Engine.Pawn Name:BP_DipNode_C_UAID_509A4C4E5631E45C02_1233371776 Label:BP_DipNode SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2680.000 Y=-1070.000 Z=-780.000), Max=(X=3280.000 Y=-470.000 Z=-180.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:D24D61B944EF71BE7BC469B7EB239299 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_1 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:DD4A44424FAA40A30B44AFBBA30B322E BaseClass:/Game/Building/Resources/BeerIronOre/BP_BeerNode.BP_BeerNode_C NativeClass:/Script/Engine.Pawn Name:BP_BeerNode_C_UAID_509A4C4E56315E5B02_1959802135 Label:BP_BeerNode SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=-1060.000 Z=-780.000), Max=(X=1000.000 Y=-460.000 Z=-180.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/TopDown/Maps/TopDownMap
+----------------------------------------------------------------------------------------------------------------
+TopDownMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of TopDownMap Persistent Level
+ |- Always loaded Actor Count: 35 
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/TopDown/Maps/TopDownMap
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_attackThis_C_UAID_50C2E8DFA3306E3802_1790724992
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/UQ/TDHWRTFVP39PLI0ZQKMCB1
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_BeerNode_C_UAID_509A4C4E56315E5B02_1959802135
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/O1/XDHL3XTDFDXFCBZYGQQMEN
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_bomber_C_UAID_005056C00001F66302_1718975335
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/33/4PJL2HGVH4B64T06V4HKQZ
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Builder_C_UAID_005056C00001F96302_1544723867
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/W1/S4C47JK1V57NVQ38FSXI4P
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_CashNode_C_UAID_509A4C4E5631E45C02_1227573775
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/E6/T4W0NS82U8XJCWUGD8Z1FT
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_DipNode_C_UAID_509A4C4E5631E45C02_1233371776
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/8P/WKIZVV6WF7FKMC41QKTNNF
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_gunner_C_UAID_005056C00001F66302_1731045336
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/CI/OMZB1RGZ1O421FFY80PFO6
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_HERO_C_UAID_005056C00001F96302_1566458868
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/80/4OC24XTQNZRC8XKWN8B0NS
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_HexGrid_C_UAID_00155D016A00CD1C02_1499329852
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/ND/ZT505HN0IDOXV9T3APNXRH
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_spearman_C_UAID_005056C00001F66302_1734130337
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/92/U7APUCBEFUWP3PRHRSAV38
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_SunRotation_C_UAID_00155D8B73D8313202_1859531919
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/9N/0X2LPFIGHHNXGJV7A7W1IC
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_tank_C_UAID_005056C00001F66302_1735888338
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/QB/FEXKQ58UGD2LMVKD3BV89R
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Trailer_C_UAID_509A4C4E5631695B02_1769376071
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/H0/CYQEY48A3W3O53MLZZBAMN
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_vehicle_C_UAID_282E89298AFDF14602_1200875831
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/8B/BEDTP0LPONRABK17DJBHLW
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/TopDown/Maps/TopDownMap
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/TopDown/Maps/TopDownMap
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.DirectionalLight_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/LM/VRK8UAZR3J2TAKS74SHCUD
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ExponentialHeightFog_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/BO/BYV4KSLUROOOL33DU1XUWQ
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/TopDown/Maps/TopDownMap
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NavLinkProxy_3
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/UT/JRUWL9PVCAH3XSUMXP4CC1
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NavMeshBoundsVolume_UAID_50C2E8DFA3306E3802_2140386993
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/CL/K4HG0FWLVZW1BQ1S056QIP
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.PlayerStart_UAID_50C2E8DFA330541F02_1506775015
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/XK/9I708VXID73SKM98V5GBQC
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.PostProcessVolume_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/VI/ESHAVRHFZFA2JDR9ZAQIOE
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.RecastNavMesh-Default
+ |- Actor Package: /Game/TopDown/Maps/TopDownMap
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkyAtmosphere_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/YN/TCNGOWDVRBFBJ5YZR7VI7S
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/LR/47NTFRDFK6M7265A1UYTOW
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_00155D8B73D8CF1B02_1199787442
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/VZ/CHXR1P4IRFGUDF4NN1GQBX
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_00155D8B73D8CF1B02_1235247443
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/7X/5DWUEMYQIHPUN4MDS10B31
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5CFB00_1660657071
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/MV/UE2U7GTDT7WM2AVP83861S
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.TopDownMap_C_0
+ |- Actor Package: /Game/TopDown/Maps/TopDownMap
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/GY/HOVAYB977GD5L9YGZ5S1T6
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/RN/FHX05LPSBNMAJG3SW97PS7
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/TopDown/Maps/TopDownMap
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/YS/FOXTUL6MPN05XEWRDRZ58J
+
+----------------------------------------------------------------------------------------------------------------
+TopDownMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+

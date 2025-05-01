@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\andre\\OneDrive - purdue.edu\\Documents\\GitHub\\int\\Intermediate\\Source\\EmpireOfTheCornFields.Build.cs",
+		"C:\\Users\\andre\\OneDrive - purdue.edu\\Documents\\GitHub\\int\\Intermediate\\Source\\EmpireOfTheCornFields.Target.cs",
+		"C:\\Users\\andre\\OneDrive - purdue.edu\\Documents\\GitHub\\int\\Intermediate\\Source\\EmpireOfTheCornFieldsClient.Target.cs",
+		"C:\\Users\\andre\\OneDrive - purdue.edu\\Documents\\GitHub\\int\\Intermediate\\Source\\EmpireOfTheCornFieldsEditor.Target.cs",
+		"C:\\Users\\andre\\OneDrive - purdue.edu\\Documents\\GitHub\\int\\Intermediate\\Source\\EmpireOfTheCornFieldsServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
