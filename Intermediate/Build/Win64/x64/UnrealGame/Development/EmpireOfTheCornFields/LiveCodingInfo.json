@@ -1,8 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.EmpireOfTheCornFields.cpp.obj": [
-			"EmpireOfTheCornFields.cpp.obj"
-		]
-	}
-}
