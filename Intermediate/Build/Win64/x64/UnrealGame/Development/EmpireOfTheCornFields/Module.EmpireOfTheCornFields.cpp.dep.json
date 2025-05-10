@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\github\\empireofthecornfields\\intermediate\\build\\win64\\x64\\unrealgame\\development\\empireofthecornfields\\module.empireofthecornfields.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\github\\empireofthecornfields\\intermediate\\build\\win64\\x64\\empireofthecornfields\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\github\\empireofthecornfields\\intermediate\\build\\win64\\x64\\unrealgame\\development\\empireofthecornfields\\definitions.empireofthecornfields.h",
+            "c:\\github\\empireofthecornfields\\intermediate\\source\\empireofthecornfields.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
